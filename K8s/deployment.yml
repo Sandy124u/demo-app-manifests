@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: sandysame/demo-app:latest
+          image: sandysame/demo-app
           ports:
             - containerPort: 8080
